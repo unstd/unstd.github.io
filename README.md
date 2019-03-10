@@ -5,3 +5,7 @@ blog &amp; note
 - [ ] GODEBUG
   - [x] [schedtrace](https://github.com/unstd/unstd.github.io/issues/14#issuecomment-447613295)
   - [ ] [gctrace](https://github.com/unstd/unstd.github.io/issues/14#issuecomment-447614265)
+
+
+## Java
+- [ ] [ApplicationShutdownHooks](https://github.com/unstd/unstd.github.io/issues/24)
